@@ -1,3 +1,219 @@
-[submodule "wakaTime"]
-	path = wakaTime
-	url = https://github.com/wakatime/vencord-wakatime.git
+[submodule "crunchyroll-comments"]
+	path = crunchyroll-comments
+	url = https://github.com/NeonGamerBot-QK/crunchyroll-comments
+[submodule "passwordgenerator"]
+	path = passwordgenerator
+	url = https://github.com/NeonGamerBot-QK/passwordgenerator
+[submodule "discord-dash"]
+	path = discord-dash
+	url = https://github.com/NeonGamerBot-QK/discord-dash
+[submodule "passionproject"]
+	path = passionproject
+	url = https://github.com/NeonGamerBot-QK/passionproject
+[submodule "ConspiracyTheories"]
+	path = ConspiracyTheories
+	url = https://github.com/NeonGamerBot-QK/ConspiracyTheories
+[submodule "zeon"]
+	path = zeon
+	url = https://github.com/NeonGamerBot-QK/zeon
+[submodule "Vencord-Plugins"]
+	path = Vencord-Plugins
+	url = https://github.com/NeonGamerBot-QK/Vencord-Plugins
+[submodule "clearwhitespace"]
+	path = clearwhitespace
+	url = https://github.com/NeonGamerBot-QK/clearwhitespace
+[submodule "eslint-config"]
+	path = eslint-config
+	url = https://github.com/NeonGamerBot-QK/eslint-config
+[submodule "gnano"]
+	path = gnano
+	url = https://github.com/NeonGamerBot-QK/gnano
+[submodule "bounty-sync-repls"]
+	path = bounty-sync-repls
+	url = https://github.com/NeonGamerBot-QK/bounty-sync-repls
+[submodule "expo-iap"]
+	path = expo-iap
+	url = https://github.com/NeonGamerBot-QK/expo-iap
+[submodule "zeon-site"]
+	path = zeon-site
+	url = https://github.com/NeonGamerBot-QK/zeon-site
+[submodule "spooktube"]
+	path = spooktube
+	url = https://github.com/NeonGamerBot-QK/spooktube
+[submodule "Vencord-themes"]
+	path = Vencord-themes
+	url = https://github.com/NeonGamerBot-QK/Vencord-themes
+[submodule "yt-update-video"]
+	path = yt-update-video
+	url = https://github.com/NeonGamerBot-QK/yt-update-video
+[submodule "last-to-leave-the-vc"]
+	path = last-to-leave-the-vc
+	url = https://github.com/NeonGamerBot-QK/last-to-leave-the-vc
+[submodule "scam-links"]
+	path = scam-links
+	url = https://github.com/NeonGamerBot-QK/scam-links
+[submodule "saahild.com"]
+	path = saahild.com
+	url = https://github.com/NeonGamerBot-QK/saahild.com
+[submodule "Vencord-builds"]
+	path = Vencord-builds
+	url = https://github.com/NeonGamerBot-QK/Vencord-builds
+[submodule "uptime-bg-app"]
+	path = uptime-bg-app
+	url = https://github.com/NeonGamerBot-QK/uptime-bg-app
+[submodule "nonbypassable-form"]
+	path = nonbypassable-form
+	url = https://github.com/NeonGamerBot-QK/nonbypassable-form
+[submodule "ollamaai-support-bot"]
+	path = ollamaai-support-bot
+	url = https://github.com/NeonGamerBot-QK/ollamaai-support-bot
+[submodule "credits"]
+	path = credits
+	url = https://github.com/NeonGamerBot-QK/credits
+[submodule "utils"]
+	path = utils
+	url = https://github.com/NeonGamerBot-QK/utils
+[submodule "cmu-sandbox"]
+	path = cmu-sandbox
+	url = https://github.com/NeonGamerBot-QK/cmu-sandbox
+[submodule "spotify-parse-csv"]
+	path = spotify-parse-csv
+	url = https://github.com/NeonGamerBot-QK/spotify-parse-csv
+[submodule "cra-template-neon"]
+	path = cra-template-neon
+	url = https://github.com/NeonGamerBot-QK/cra-template-neon
+[submodule "img-gallery-api"]
+	path = img-gallery-api
+	url = https://github.com/NeonGamerBot-QK/img-gallery-api
+[submodule "is-react-instance"]
+	path = is-react-instance
+	url = https://github.com/NeonGamerBot-QK/is-react-instance
+[submodule "ssh-process"]
+	path = ssh-process
+	url = https://github.com/NeonGamerBot-QK/ssh-process
+[submodule "unoffical-ollama-api"]
+	path = unoffical-ollama-api
+	url = https://github.com/NeonGamerBot-QK/unoffical-ollama-api
+[submodule "ntts-hackathon"]
+	path = ntts-hackathon
+	url = https://github.com/NeonGamerBot-QK/ntts-hackathon
+[submodule "english-basketball-project"]
+	path = english-basketball-project
+	url = https://github.com/NeonGamerBot-QK/english-basketball-project
+[submodule "kcd-vex-24"]
+	path = kcd-vex-24
+	url = https://github.com/NeonGamerBot-QK/kcd-vex-24
+[submodule "zeoncanvas"]
+	path = zeoncanvas
+	url = https://github.com/NeonGamerBot-QK/zeoncanvas
+[submodule "spotifypanel"]
+	path = spotifypanel
+	url = https://github.com/NeonGamerBot-QK/spotifypanel
+[submodule "ghprofile"]
+	path = ghprofile
+	url = https://github.com/NeonGamerBot-QK/ghprofile
+[submodule "music-app"]
+	path = music-app
+	url = https://github.com/NeonGamerBot-QK/music-app
+[submodule "sms-app"]
+	path = sms-app
+	url = https://github.com/NeonGamerBot-QK/sms-app
+[submodule "temp-email"]
+	path = temp-email
+	url = https://github.com/NeonGamerBot-QK/temp-email
+[submodule "urlshort"]
+	path = urlshort
+	url = https://github.com/NeonGamerBot-QK/urlshort
+[submodule "CRC"]
+	path = CRC
+	url = https://github.com/NeonGamerBot-QK/CRC
+[submodule "resume-action"]
+	path = resume-action
+	url = https://github.com/NeonGamerBot-QK/resume-action
+[submodule "custom-cdn"]
+	path = custom-cdn
+	url = https://github.com/NeonGamerBot-QK/custom-cdn
+[submodule "AI-Blog"]
+	path = AI-Blog
+	url = https://github.com/NeonGamerBot-QK/AI-Blog
+[submodule "GHUIapp"]
+	path = GHUIapp
+	url = https://github.com/NeonGamerBot-QK/GHUIapp
+[submodule "openeye"]
+	path = openeye
+	url = https://github.com/NeonGamerBot-QK/openeye
+[submodule "fake-identity-app"]
+	path = fake-identity-app
+	url = https://github.com/NeonGamerBot-QK/fake-identity-app
+[submodule "ssh-server"]
+	path = ssh-server
+	url = https://github.com/NeonGamerBot-QK/ssh-server
+[submodule "rust-rest-api"]
+	path = rust-rest-api
+	url = https://github.com/NeonGamerBot-QK/rust-rest-api
+[submodule "dog"]
+	path = dog
+	url = https://github.com/NeonGamerBot-QK/dog
+[submodule "cat"]
+	path = cat
+	url = https://github.com/NeonGamerBot-QK/cat
+[submodule "bz"]
+	path = bz
+	url = https://github.com/NeonGamerBot-QK/bz
+[submodule "Annotationapp"]
+	path = Annotationapp
+	url = https://github.com/NeonGamerBot-QK/Annotationapp
+[submodule "no-madiens"]
+	path = no-madiens
+	url = https://github.com/NeonGamerBot-QK/no-madiens
+[submodule "earthday"]
+	path = earthday
+	url = https://github.com/NeonGamerBot-QK/earthday
+[submodule "draw-app"]
+	path = draw-app
+	url = https://github.com/NeonGamerBot-QK/draw-app
+[submodule "yt-player"]
+	path = yt-player
+	url = https://github.com/NeonGamerBot-QK/yt-player
+[submodule "62885A-robotics"]
+	path = 62885A-robotics
+	url = https://github.com/NeonGamerBot-QK/62885A-robotics
+[submodule "tictactoeapp-cs"]
+	path = tictactoeapp-cs
+	url = https://github.com/NeonGamerBot-QK/tictactoeapp-cs
+[submodule "example-db-app"]
+	path = example-db-app
+	url = https://github.com/NeonGamerBot-QK/example-db-app
+[submodule "Global-Warming"]
+	path = Global-Warming
+	url = https://github.com/NeonGamerBot-QK/Global-Warming
+[submodule "GameOfText"]
+	path = GameOfText
+	url = https://github.com/NeonGamerBot-QK/GameOfText
+[submodule "solidmedia"]
+	path = solidmedia
+	url = https://github.com/NeonGamerBot-QK/solidmedia
+[submodule "quiz-service"]
+	path = quiz-service
+	url = https://github.com/NeonGamerBot-QK/quiz-service
+[submodule "react-chat-app"]
+	path = react-chat-app
+	url = https://github.com/NeonGamerBot-QK/react-chat-app
+[submodule "aboutme-template"]
+	path = aboutme-template
+	url = https://github.com/NeonGamerBot-QK/aboutme-template
+[submodule "bitcoin-price-app"]
+	path = bitcoin-price-app
+	url = https://github.com/NeonGamerBot-QK/bitcoin-price-app
+[submodule "msuci-test"]
+	path = msuci-test
+	url = https://github.com/NeonGamerBot-QK/msuci-test
+[submodule "sfs-teachings"]
+	path = sfs-teachings
+	url = https://github.com/NeonGamerBot-QK/sfs-teachings
+[submodule "git"]
+	path = git
+	url = https://github.com/NeonGamerBot-QK/git
+[submodule "NeonGamerBot-QK"]
+	path = NeonGamerBot-QK
+	url = https://github.com/NeonGamerBot-QK/NeonGamerBot-QK
